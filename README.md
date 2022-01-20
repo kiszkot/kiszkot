@@ -1,8 +1,24 @@
-- 👋 Hi, I’m @kiszkot
-- 👀 I’m interested in programming in different languages
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Username @kiszkot
+
+I have previously worked with the following programmin languages:
+ - C++
+ - R
+ - Octave
+ - Matlab
+ - LabVIEW
+ - Python
+ - Ruby
+ - Java
+ - C#
+ - Lua
+ - Ruby
+
+At university I had at least one or more course of:
+ - R
+ - Java
+ - Octave / Matlab
+
+Currently working on a Linux machine.
 
 <!---
 kiszkot/kiszkot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
