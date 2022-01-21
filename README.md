@@ -1,4 +1,5 @@
 Username @kiszkot
+Profile picture from artist Alasou on Deviantart. link below.
 
 I have previously worked with the following programmin languages:
  - C++
@@ -37,6 +38,9 @@ Notable university classes:
  - - The programming part was done in LabVIEW. It main focus was on the VISA programming commands and how to use them properly to make measurments.
 
 I also have some basic linux command line knowledge as well as windows command line knowlednge. This includes programs like nmap, curl, ssh, netcat, wireshark, burp suite, owasp zap.
+
+Profile picture link:
+https://www.deviantart.com/alasou/art/Classy-Princess-455768733
 
 <!---
 kiszkot/kiszkot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
