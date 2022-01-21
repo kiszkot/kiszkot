@@ -36,7 +36,7 @@ Notable university classes:
  - Programming of computer based measuting systems
  - - The programming part was done in LabVIEW. It main focus was on the VISA programming commands and how to use them properly to make measurments.
 
-Currently working on a Linux machine.
+I also have some basic linux command line knowledge as well as windows command line knowlednge. This includes programs like nmap, curl, ssh, netcat, wireshark, burp suite, owasp zap.
 
 <!---
 kiszkot/kiszkot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
