@@ -12,7 +12,6 @@ I have previously worked with the following programmin languages:
  - Java
  - C#
  - Lua
- - Ruby
 
 At university I had at least one or more course of:
  - R
